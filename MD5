@@ -1,0 +1,9 @@
+a96573a8c835592484ca069b07d0249d *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+0499c9e9a6887054000e9cfedc5debe6 *R/conint.R
+f4052454a69ffdea0ac0da7ab2a5a938 *R/findroot.R
+d645e89afd294faaa4b4756e8cdc833a *R/hypothesis.R
+ab82d78e155759b80b8f5d8707807b3b *man/conint.Rd
+7cb57740188eae61f99e3aaaad01f84f *man/findroot.Rd
+a66390d6f93a7ab93c1ad42be5202ad5 *man/hypothesis-package.Rd
+6b68ecc5ac196d851a3aef46f1506d63 *man/hypothesis.Rd
